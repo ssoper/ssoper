@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
 <h3 align="center">A developer constantly seeking to challenge myself</h3>
 
-- 🔭 I’m currently working on [Zebec](https://github.com/ssoper/Zebec)
+- 🏦 I’m the creator and maintainer of [Batil](https://github.com/ssoper/Batil)
 
 - 📝 I regularly write articles on [https://seansoper.com/blog/](https://seansoper.com/blog/)
 
